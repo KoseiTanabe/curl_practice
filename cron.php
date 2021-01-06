@@ -19,7 +19,7 @@ mb_language('Japanese');
 //エンコーディングする時の文字コードをどれにするか
 mb_internal_encoding('UTF-8');
 //メールの送り先
-$to = 'test081388@gmail.com';
+$to = '送りたいメールアドレス';
 //メールの件名
 $subject = '現在のビットコインの価格';
 //メールの本文
